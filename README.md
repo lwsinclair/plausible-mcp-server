@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/avimbu-plausible-mcp-server-badge.png)](https://mseep.ai/app/avimbu-plausible-mcp-server)
+
 # Plausible Model Context Protocol Server
 
 MCP Interaction Server for Plausible Analytics
